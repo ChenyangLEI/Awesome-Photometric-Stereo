@@ -1,2 +1,2 @@
-# CVPR2020-Polarized-Reflection-Removal-with-Perfect-Alignment
-Code for CVPR2020 paper "Polarized Reflection Removal with Perfect Alignment in the Wild"
+# Photometric Stereo
+A curated list of photometric stereo resource, inspired by awesome-php and awesome-computer-vision.
